@@ -1,7 +1,5 @@
 # SVM_optimization
 
-## Sampling Assignment
-
 **Dataset Used:** [ADULT Data Set](https://archive.ics.uci.edu/ml/datasets/adult)
 
 | Number of Instances:  | 30162 |
